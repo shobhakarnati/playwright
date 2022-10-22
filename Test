@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	 <font size="3" color="red">Red text, font size increased.</font>  
+
+<div align=center>
+	<input type="text">
+
+</div>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+<div>This is a div.</div>
+<img src="green.png">
+<img src="sr.jpeg">
+<img src="ss.jpeg">
+ <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</body>
+</html> 
